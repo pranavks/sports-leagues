@@ -1,8 +1,12 @@
 # Sports Leagues
 
-## Design Decision
+## Architecture
 
-- Minimalistic UI styled with Tailwind CSS
+- **Framework** — React
+- **Server state** — TanStack Query for data fetching and caching
+- **Client state** — Local `useState`
+- **Styling** — Tailwind CSS with a minimalistic design
+- **Accessibility** — Radix UI primitives and `tabIndex` for keyboard navigation
 
 ## AI Assistance
 
@@ -13,4 +17,4 @@ Claude Code was used for the following:
 - **UI components** — Built loading and error state components
 - **Dropdown** — Scaffolded a sport type dropdown using Radix UI and React Icons
 - **League table** — Designed and implemented the league list UI
-- **This README** — Written with AI
+- **This README block** — Written with AI
