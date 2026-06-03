@@ -1,4 +1,4 @@
-# Sporty Test
+# Sports Leagues
 
 ## Design Decision
 
