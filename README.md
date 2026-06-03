@@ -1,5 +1,12 @@
 # Sports Leagues
 
+## Commands
+
+```bash
+npm run dev                       # start development server
+npm run start                     # build then preview production
+```
+
 ## Architecture
 
 - **Framework** — React
